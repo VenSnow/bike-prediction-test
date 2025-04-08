@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+
+# VS Code settings (если используешь)
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Output files
+*.log
+*.out
+*.tmp
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pyo
+*.pyd
+
+# Jupyter Notebook history
+.history/
+
+# Model pickle or joblib files (если будешь сохранять модель)
+*.pkl
+*.joblib
